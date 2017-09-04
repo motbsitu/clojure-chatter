@@ -1,6 +1,7 @@
 # chatter
 
-This fancy web app for messages.
+This is a web app that will display posted messages.
+
 
 ## Prerequisites
 
@@ -17,3 +18,5 @@ To start a web server for the application, run:
 ## License
 
 Copyright © 2015 Clojure
+
+#
